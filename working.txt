@@ -1,0 +1,36 @@
+How it works?
+
+
+#Button.css
+
+Button.css is cascading style sheet having a lot of rules to define the cool beautiful and stunning button in web page. These buttons have different styles as gradient, animations, transforms, text font styles, containers types and many more.
+
+Installing Tips::
+?	Include the stylesheet on your document's <head>
+<head>
+  <link rel="stylesheet" href="animate.min.css">
+</head>
+
+?	Add the class to the <a> tag as  you want to make button . You may also want to include class in <button> tag.
+
+Finally you need to add one of the following classes:
+?	backFillIn
+?	backFill
+?	fillTrans
+?	backTransIn
+?	backTransOut
+?	DiagFill
+?	glowBall
+?	butn-backshad
+?	butn-topFill
+?	butn-borderIn
+?	butn-borderOut
+?	butn-txtbold
+Button shadow calss:
+?	butn-shade
+Color Container class also can be used:
+?	clr-container
+Font Family
+?	Ginebra
+?	squiggler
+
