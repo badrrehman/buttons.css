@@ -1,0 +1,328 @@
+.butn {
+	
+  flex: 1 1 auto;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  background-size: 200% auto;
+  color: black;
+  border-radius: 0px;
+  background-color:transparent;
+}
+
+/* button back fill*/
+.butn-backfill {
+background-image: linear-gradient(to right, #30B026 52%, transparent 50%);
+
+}
+.butn-backfill:hover,
+.butn-backfill:focus,
+.butn-backfill.focus,
+.butn-backfill:active,
+.butn-backfill.active,
+.open > .dropdown-toggle.butn-backfill {
+	color:#000;
+ background-position: right center;
+ text-decoration:none;
+ transition: 1s;
+  -webkit-transition: 1s;
+  -moz-transition: 1s;
+  -o-transition: 1s;
+}
+
+
+/* button sizes here  */
+
+.butn-reg,
+.butn-group-reg > .butn {
+  padding: 10px 16px;
+  font-size: 16px;
+  line-height: 1.3333333;
+  border-radius: 0px;
+}
+.butn-med,
+.butn-group-med > .butn {
+  padding: 12px 18px;
+  font-size: 22px;
+  line-height: 1.4333333;
+  border-radius: 0px;
+}
+
+.butn-lrg,
+.butn-group-lrg > .butn {
+  padding: 15px 20px;
+  font-size: 27px;
+  line-height: 1.5333333;
+  border-radius: 0px;
+}
+
+
+/* back Fill In   */
+.butn-backFillIn {
+	color:#000;
+background-image: linear-gradient(-90deg, #E42C2F 52% , #D0C90E 10% );
+ 
+}
+.butn-backFillIn:hover,
+.butn-backFillIn:focus,
+.butn-backFillIn.focus,
+.butn-backFillIn:active,
+.butn-backFillIn.active,
+.open > .dropdown-toggle.butn-backFillIn {
+ background-position:right center;
+ text-decoration:none;
+ color:#fff;
+ transition:1s;
+  -webkit-transition: 1s;
+  -moz-transition: 1s;
+  -o-transition: 1s;
+}
+
+
+
+/* button shadow  */
+.butn-shade{
+	box-shadow: 5px 5px 20px grey;
+}
+
+
+
+.clr-container {
+	background-color:#08ACD5;
+	color:#E4E4E4;
+	padding-top:5px;
+  padding-right: 80px;
+  padding-left: 80px;
+  margin-right: auto;
+  margin-left: auto;
+}
+@media (min-width: 768px) {
+  .container {
+    width: 750px;
+  }
+}
+@media (min-width: 992px) {
+  .container {
+    width: 970px;
+  }
+}
+@media (min-width: 1200px) {
+  .container {
+    width: 1170px;
+  }
+}
+
+@font-face{
+	font-family:ginebra;
+	src:url(../fonts/ginebra.ttf);
+}
+@font-face{
+	font-family:Squiggler;
+	src:url(../fonts/Squiggler.ttf);
+}
+
+
+.butn-diagfill{
+	background-image:linear-gradient(to bottom right, #1565c0 62.5%, #46b749 50%);
+	
+}
+
+.butn-diagfill:hover,
+.butn-diagfill:focus,
+.butn-diagfill.focus,
+.butn-diagfill:active,
+.butn-diagfill.active,
+.open > .dropdown-toggle.butn-diagfill {
+	color:#fff;
+ background-position: right center;
+ text-decoration:none;
+   transition: 1s;
+  -webkit-transition: 1s;
+  -moz-transition: 1s;
+  -o-transition: 1s;
+ 
+}
+
+
+.butn-backTransOut{
+	background-color:#D72225;
+	-webkit-transition: background-color 1s ease-out;
+  -moz-transition: background-color 1s ease-out;
+  -o-transition: background-color 1s ease-out;
+  transition: background-color 1s ease-out;
+}
+.butn-backTransOut:hover,
+.butn-backTransOut:focus,
+.butn-backTransOut.focus,
+.butn-backTransOut:active,
+.butn-backTransOut:active,
+.open > .dropdown-toggle.butn-backTransOut {
+ background-color: transparent;
+  cursor: pointer;
+  text-decoration:none;
+ 
+}
+
+.butn-backTransIn{
+	
+	-webkit-transition: background-color 1s ease-out;
+  -moz-transition: background-color 1s ease-out;
+  -o-transition: background-color 1s ease-out;
+  transition: background-color 1s ease-out;
+}
+.butn-backTransIn:hover,
+.butn-backTransIn:focus,
+.butn-backTransIn.focus,
+.butn-backTransIn:active,
+.butn-backTransIn:active,
+.open > .dropdown-toggle.butn-backTransIn {
+ color:#EDEDED;
+	background-color:#D72225;
+  cursor: pointer;
+  text-decoration:none;
+ 
+}
+
+.butn-glowBall {
+background-image: radial-gradient(circle, #5FD7E5 4%, #018EB1 30%);
+
+}
+.butn-glowBall:hover,
+.butn-glowBall:focus,
+.butn-glowBall.focus,
+.butn-glowBall:active,
+.butn-glowBAll.active,
+.open > .dropdown-toggle.butn-glowBall {
+	color:#000;
+ background-position: right center;
+ text-decoration:none;
+ transition: 1s;
+  -webkit-transition: 1s;
+  -moz-transition: 1s;
+  -o-transition: 1s;
+}
+
+.butn-fillTrans {
+	color:#000;
+background-image: linear-gradient(-90deg, #D47C26 50% , transparent 10% );
+ 
+}
+.butn-fillTrans:hover,
+.butn-fillTrans:focus,
+.butn-fillTrans.focus,
+.butn-fillTrans:active,
+.butn-back.active,
+.open > .dropdown-toggle.butn-fillTrans {
+ background-position:right center;
+ text-decoration:none;
+ color:#fff;
+ transition: 1s;
+  -webkit-transition: 1s;
+  -moz-transition: 1s;
+  -o-transition: 1s;
+}
+
+/* Back Shad */
+
+.butn-backShad {
+	color:#fff;
+background-image: radial-gradient(circle, #101010 45%, #D72225 50%);
+
+}
+.butn-backShad:hover,
+.butn-backShad:focus,
+.butn-backShad.focus,
+.butn-backShad:active,
+.butn-backShad.active,
+.open > .dropdown-toggle.butn-backShad {
+	color:#fff;
+ background-position: right center;
+ text-decoration:none;
+  transition: 2s;
+  -webkit-transition: 2s;
+  -moz-transition:2s;
+  -o-transition: 2s;
+  
+}
+
+.butn-topFill{
+	background-color:#000000;
+	color:#D0C90E;
+	position: relative;
+	box-sizing: border-box;
+	transition: all 500ms ease; 
+  	-webkit-transition: all 500ms ease;
+ 	 -moz-transition:all 500ms ease;
+ 	 -o-transition: all 500ms ease;
+}
+
+.butn-topFill:before{
+	content:'';
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height:0%;
+	background:rgba(255,255,255,0.3);
+	transition: all 1s ease;	
+}
+.butn-topFill:hover{
+	color:#fff;
+	text-decoration:none;
+}
+.butn-topFill:hover:before{
+	height: 100%;
+	
+}
+
+
+.butn-borderIn{
+	background-color:transparent;
+	border-bottom:1px solid black;
+}
+.butn-borderIn:hover{
+	outline:2px solid black;
+	text-decoration:none;
+	transition:0.3s ease;
+	  -webkit-transition: 0.3s ease;
+ 	 -moz-transition: 0.3s ease;
+	  -o-transition: 0.3s ease;
+}
+
+.butn-txtbold{
+	background-color:transparent;
+	font-weight:normal;
+	position:relative;
+	 transition: 0.3s ease;
+  	-webkit-transition: 0.3s ease;
+ 	 -moz-transition: 0.3s ease;
+ 	 -o-transition: 0.3s ease;
+}
+.butn-txtbold:hover,
+.butn-txtbold:focus{
+	text-decoration:none;
+	font-weight:bolder;
+	
+}
+.butn-txtbold:hover:after{
+	content:"\f004";
+	color:#f00;
+	margin-left:3px;
+}
+
+
+.butn-borderOut{
+	background-color:transparent;
+	border:2px solid black;
+}
+
+.butn-borderOut:hover,
+.butn-borderOut:focus{
+	text-decoration:underline;
+	border:0px solid transparent;
+	transition:0.5s ease;
+  	-webkit-transition: 0.5s ease;
+ 	 -moz-transition: 0.5s ease;
+ 	 -o-transition: 0.5s ease;
+	
+}
