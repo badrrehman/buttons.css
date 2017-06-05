@@ -1,0 +1,16 @@
+.butn-glowBall {
+background-image: radial-gradient(circle, #5FD7E5 4%, #018EB1 30%);
+
+}
+.butn-glowBall:hover,
+.butn-glowBall:focus,
+.butn-glowBall.focus,
+.butn-glowBall:active,
+.butn-glowBAll.active,
+.open > .dropdown-toggle.butn-glowBall {
+	color:#000;
+ background-position: right center;
+ text-decoration:none;
+ -webkit-transition: 1s;
+  
+}

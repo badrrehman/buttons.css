@@ -1,0 +1,17 @@
+.butn-txtbold{
+	background-color:transparent;
+	font-weight:normal;
+	transition:0.3s ease;
+	position:relative;
+}
+.butn-txtbold:hover,
+.butn-txtbold:focus{
+	text-decoration:none;
+	font-weight:bolder;
+	
+}
+.butn-txtbold:hover:after{
+	content:"\f004";
+	color:#f00;
+	margin-left:3px;
+}

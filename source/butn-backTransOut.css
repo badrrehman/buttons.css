@@ -1,0 +1,18 @@
+.butn-backTransOut{
+	background-color:#D72225;
+	-webkit-transition: background-color 1s ease-out;
+  -moz-transition: background-color 1s ease-out;
+  -o-transition: background-color 1s ease-out;
+  transition: background-color 1s ease-out;
+}
+.butn-backTransOut:hover,
+.butn-backTransOut:focus,
+.butn-backTransOut.focus,
+.butn-backTransOut:active,
+.butn-backTransOut:active,
+.open > .dropdown-toggle.butn-backTransOut {
+ background-color: transparent;
+  cursor: pointer;
+  text-decoration:none;
+ 
+}

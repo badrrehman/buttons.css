@@ -1,0 +1,12 @@
+.butn-borderOut{
+	background-color:transparent;
+	border:2px solid black;
+}
+
+.butn-borderOut:hover,
+.butn-borderOut:focus{
+	text-decoration:underline;
+	border:0px solid transparent;
+	transition:0.5s ease;
+	
+}

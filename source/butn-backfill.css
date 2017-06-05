@@ -1,0 +1,18 @@
+/* button back fill*/
+.butn-backfill {
+background-image: linear-gradient(to right, #30B026 51%, transparent 50%);
+
+}
+.butn-backfill:hover,
+.butn-backfill:focus,
+.butn-backfill.focus,
+.butn-backfill:active,
+.butn-backfill.active,
+.open > .dropdown-toggle.butn-backfill {
+	color:#000;
+ background-position: right center;
+ text-decoration:none;
+ -webkit-transition: 1s;
+  
+ 
+}

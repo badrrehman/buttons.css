@@ -1,0 +1,17 @@
+.butn-fillTrans {
+	color:#000;
+background-image: linear-gradient(-90deg, #D47C26 50% , transparent 10% );
+ 
+}
+.butn-fillTrans:hover,
+.butn-fillTrans:focus,
+.butn-fillTrans.focus,
+.butn-fillTrans:active,
+.butn-back.active,
+.open > .dropdown-toggle.butn-fillTrans {
+ background-position:right center;
+ text-decoration:none;
+ color:#fff;
+ transition:1s;
+  -webkit-transition: 1s;
+}

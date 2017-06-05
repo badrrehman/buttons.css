@@ -1,0 +1,24 @@
+/* button sizes here  */
+
+.butn-reg,
+.butn-group-reg > .butn {
+  padding: 10px 16px;
+  font-size: 16px;
+  line-height: 1.3333333;
+  border-radius: 0px;
+}
+.butn-med,
+.butn-group-med > .butn {
+  padding: 12px 18px;
+  font-size: 22px;
+  line-height: 1.4333333;
+  border-radius: 0px;
+}
+
+.butn-lrg,
+.butn-group-lrg > .butn {
+  padding: 15px 20px;
+  font-size: 27px;
+  line-height: 1.5333333;
+  border-radius: 0px;
+}

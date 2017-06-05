@@ -1,0 +1,18 @@
+/* back Fill In   */
+.butn-backFillIn {
+	color:#000;
+background-image: linear-gradient(-90deg, #E42C2F 50% , #D0C90E 10% );
+ 
+}
+.butn-backFillIn:hover,
+.butn-backFillIn:focus,
+.butn-backFillIn.focus,
+.butn-backFillIn:active,
+.butn-backFillIn.active,
+.open > .dropdown-toggle.butn-backFillIn {
+ background-position:right center;
+ text-decoration:none;
+ color:#fff;
+ transition:1s;
+  -webkit-transition: 1s;
+}
