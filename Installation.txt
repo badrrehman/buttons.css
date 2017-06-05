@@ -1,0 +1,31 @@
+# How To Install Button.css
+# Installing::
+## Basic Use:
+⦁	Include the stylesheet on your document's <head><br>
+```html
+<head>
+<link rel="stylesheet" href="animate.min.css">
+  </head> 
+```
+⦁	Add the class to the <a> tag as  you want to make button . You may also want to include class in <button> tag.<br>
+<br>
+### Finally you need to add one of the following classes: 
+⦁	backFillIn<br>
+⦁	backFill<br>
+⦁	fillTrans<br>
+⦁	backTransIn<br>
+⦁	backTransOut<br>
+⦁	DiagFill<br>
+⦁	glowBall<br>
+⦁	butn-backshad<br>
+⦁	butn-topFill<br>
+⦁	butn-borderIn<br>
+⦁	butn-borderOut<br>
+⦁	butn-txtbold<br>
+Button shadow calss:<br>
+⦁	butn-shade<br>
+### Color Container class also can be used:
+⦁	clr-container<br>
+### Font Family
+⦁	Ginebra<br>
+⦁	squiggler<br>
