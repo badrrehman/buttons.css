@@ -1,0 +1,34 @@
+          ==========     =          =    =========   =========  =======   ===              =             =======  ======    ======   
+          ==            ==     =          =            =                  =           =          =   =    =            =             =              =              =
+          ==            ==     =          =            =                  =           =          =   =      =          =             =              =              =
+          ==========     =          =            =                  =           =          =   =        =        =             =              =              =              
+          ==            ==     =          =            =                  =           =          =   =          =      =             =               ======   ======
+          ==            ==     =          =            =                  =           =          =   =           =     =             =                         =             =
+          ==            ==     =          =            =                  =           =          =   =            =    =    ==     =                         =             =
+          ==========     =======            =                  =           =======   =              ===    ==     =======   ======   ======
+
+[[[[[[[[[&&&&&&********(((((((((((///////////+++++++---------  BUTTON.CSS  -----------++++++++\\\\\\((((*****&&&&&&&&&&]]]]]]]]]]]]
+
+Project:: Button.css
+
+Author:: Badr Rehman
+
+Introduction:
+            This is a CSS (cascading style sheet), contains the code of different style buttons that can be used in the HTML web pages.
+       its a pre build and pre compiled css file having css rules to identify , structure, and fix buttons in web page easily. These rules in this css file can be       used by calling the classes names in the file BUTTON.CSS.
+
+Example::
+                 Some code example of  button that are used in the button.css as following,
+                       1- butn ( its for simple button having no border tranparent background, and default size is depended on the text in side the button)
+                       2- butn-reg (Reguler) 
+                           butn-med (Medium)
+                           butn-lrg (large)
+                 And a lot of button with different styles on hover and background changes.
+
+
+
+
+
+
+
+
