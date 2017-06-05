@@ -1,31 +1,37 @@
-# How To Install Button.css
-# Installing::
-## Basic Use:
-⦁	Include the stylesheet on your document's <head><br>
-```html
+Installing Tips::
+
+Basic Use:
+
+⦁	Include the stylesheet on your document's 
+
 <head>
-<link rel="stylesheet" href="animate.min.css">
+<link rel="stylesheet" href="button.css">
   </head> 
-```
-⦁	Add the class to the <a> tag as  you want to make button . You may also want to include class in <button> tag.<br>
-<br>
-### Finally you need to add one of the following classes: 
-⦁	backFillIn<br>
-⦁	backFill<br>
-⦁	fillTrans<br>
-⦁	backTransIn<br>
-⦁	backTransOut<br>
-⦁	DiagFill<br>
-⦁	glowBall<br>
-⦁	butn-backshad<br>
-⦁	butn-topFill<br>
-⦁	butn-borderIn<br>
-⦁	butn-borderOut<br>
-⦁	butn-txtbold<br>
-Button shadow calss:<br>
-⦁	butn-shade<br>
-### Color Container class also can be used:
-⦁	clr-container<br>
-### Font Family
-⦁	Ginebra<br>
-⦁	squiggler<br>
+⦁	Add the class to the tag as you want to make button . You may also want to include class in tag.
+
+
+Finally you need to add one of the following classes:
+
+⦁	backFillIn
+⦁	backFill
+⦁	fillTrans
+⦁	backTransIn
+⦁	backTransOut
+⦁	DiagFill
+⦁	glowBall
+⦁	butn-backshad
+⦁	butn-topFill
+⦁	butn-borderIn
+⦁	butn-borderOut
+⦁	butn-txtbold
+Button shadow calss:
+⦁	butn-shade
+
+Color Container class also can be used:
+
+⦁	clr-container
+
+Font Family
+
+⦁	Ginebra
+⦁	squiggler
