@@ -18,7 +18,7 @@ Button.css is cascading style sheet having a lot of rules to define the cool bea
 ⦁	Include the stylesheet on your document's <head><br>
 ```html
 <head>
-<link rel="stylesheet" href="animate.min.css">
+<link rel="stylesheet" href="button.css">
   </head> 
 ```
 ⦁	Add the class to the <a> tag as  you want to make button . You may also want to include class in <button> tag.<br>
