@@ -61,4 +61,4 @@ i'll appriciat to all who would like to contribute to improve button.css project
 Thanks<br>
 
 ## Author::
-<a href="https://twitter.com/BadrRehman">@Badr Rehman</a>
+<a href="https://twitter.com/BadrRehman" target="_blank">@Badr Rehman</a>
