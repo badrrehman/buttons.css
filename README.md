@@ -50,8 +50,8 @@ button</a>
 ```
 ## Explanation:
 Above example <strong>"butn"</strong> is simply button class that define the structure of button and<br>
-<strong>"butn-diagFill"</strong> is class for style of button,<strong>"butn-reg"</strong> is class for button size as <strong>reg=reguler</strong> <strong>"butn-shad"</strong> is for butn shadow class.
-<a href="#">Check out all buttons designs</a>
+<strong>"butn-diagFill"</strong> is class for style of button,<strong>"butn-reg"</strong> is class for button size as <strong>reg=reguler</strong> <strong>"butn-shad"</strong> is for butn shadow class.<br>
+<a href="https://badrrehman.github.io/button.css/">Check out all buttons designs</a>
 
 # License
  Button.css is not licensed to any one. its a open source package for all.
